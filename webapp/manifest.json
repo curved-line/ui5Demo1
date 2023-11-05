@@ -1,0 +1,10 @@
+{
+    "sap.app": {
+        "id": "ui5Demo1",
+        "type": "application",
+        "title": "Demo App",
+        "applicationVersion": {
+            "version": "0.0.1"
+        }
+    }
+}
